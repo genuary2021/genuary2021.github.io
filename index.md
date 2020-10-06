@@ -8,7 +8,7 @@ For every 24 hour day of this 744 hour timespan, we have prepared a prompt with 
 
 You don't have to follow the prompt exactly. Or even at all. But it would be nice if it was vaguely related.
 
-You can use any language framework or medium. Just respect the Geneva Conventions.
+You can use any language, framework or medium. But please respect the Geneva Conventions.
 
 Tag your works with #genuary and #genuary2021. If you're going to misspell it as #genaury, please include all permutations.
 
