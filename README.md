@@ -1,2 +1,2 @@
-# [genuary.github.io](index)
+# [genuary](index)
 GENUARY generative / code art month
