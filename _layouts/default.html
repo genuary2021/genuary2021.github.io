@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+    <meta name="viewport" content="width=1000, initial-scale=0.8">
+    <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="site-name"><a href="/">{{ site.name }}</a></h1>
+      </header>
+           
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+  </body>
+</html>
