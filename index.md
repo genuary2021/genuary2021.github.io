@@ -19,3 +19,14 @@ Click for the [prompts in progress](prompts). These are not the actual real prom
 # TIPS & TRICKS
 
 * If you're short on time, you can try and work two prompts in a program that you use twice. The power of automation.
+
+# 31 DAYS, 31 PROGRAMS/ALGORITHMS/MACHINES/AUTOMATONS
+
+```
+10 INPUT PROMPT
+20 WRITE CODE
+30 OBTAIN ARTIFACT
+40 POST #GENUARY #GENUARY2021
+50 GOTO 10
+```
+

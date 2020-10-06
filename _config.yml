@@ -2,4 +2,8 @@ name: GENUARY 2021
 title: GENUARY 2021
 
 exclude:
-    - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
