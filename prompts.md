@@ -1,4 +1,4 @@
-# GENUARY 2021 - PROMPTS IN PROGRESS
+# PROMPTS IN PROGRESS
 
 Here follows an unordered list of interesting code prompts
 
