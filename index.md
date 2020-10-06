@@ -1,4 +1,4 @@
-# GENUARY 2021
+# GENUARY?
 
 GENUARY is an artificially generated month of time where we build code that makes beautiful things.
 
