@@ -1,3 +1,11 @@
+```
+10 INPUT PROMPT
+20 WRITE CODE
+30 OBTAIN ARTIFACT
+40 POST #GENUARY #GENUARY2021
+50 GOTO 10
+```
+
 # GENUARY?
 
 GENUARY is an artificially generated month of time where we build code that makes beautiful things.
@@ -22,11 +30,4 @@ Click for the [prompts in progress](prompts). These are not the actual real prom
 
 # 31 DAYS, 31 PROGRAMS/ALGORITHMS/MACHINES/AUTOMATONS
 
-```
-10 INPUT PROMPT
-20 WRITE CODE
-30 OBTAIN ARTIFACT
-40 POST #GENUARY #GENUARY2021
-50 GOTO 10
-```
 
