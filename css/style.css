@@ -60,6 +60,8 @@ section hr {
   margin: 2em 0;
   border-top: .25em solid #f90;
   border-bottom: .25em solid #000;
+  border-left: none;
+  border-right: none;
 }
 
 section h1, section h2, section h3, section h4, section h5, section h6 {
