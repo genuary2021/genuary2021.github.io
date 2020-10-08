@@ -1,10 +1,10 @@
 # PROMPTS IN PROGRESS
 
-Here follows an unordered list of interesting code prompts
+Here follows an unordered list of interesting code prompts:
 
 ---
 
-this one is roughly based on the current October challenge from symbiocene.art
+This one is roughly based on the October challenge from [symbiocene.art](symbiocene.art).
 
 ```
 // uppercase parts can be your own variables

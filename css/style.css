@@ -4,37 +4,46 @@
 }
 
 body {
-    background: #fff;
+    background: #034;
 }
 
 .wrapper {
   font-size: 24px;
   line-height: 1.5;
   font-family: Arial, sans-serif;
-  color:#000;
-  max-width:90%;
+  color:#fff;
 }
 
 header, section, footer {
   display:block;
 }
 
-strong { color: #600; font-weight: bold; }
-em { color: #600; font-style: italic; }
-code { color: #940; font-family: monospace; }
-
-a {
-  color: #009;
-  /*text-decoration:none;*/
+header #logo {
+  position: relative;
+  width: 80vw;
+  margin: 0 auto;
+  padding: 0;
 }
-h1 a { color: inherit; text-decoration: none; }
-
-header h1 {
+header #logo svg {
+  width: 80vw;
+}
+header #logo p {
+  position: absolute;
+  width: 80vw;
+  font-size: 6em;
+  line-height: 12.5vw;
+  color: #fff;
+  text-shadow: .05em .05em 0 #034;
   text-align: center;
-  font-size:3em;
-  margin: 0.67em 0;
-  color: #555;
 }
+header #logo a { text-decoration: none; color: inherit; }
+
+section strong { color: #9ff; font-weight: bold; }
+section em { color: #9ff; font-style: italic; }
+section code { color: #9ff; font-family: monospace; }
+section a { color: #bef; }
+
+section h1 a { color: inherit; text-decoration: none; }
 
 section {
   box-sizing: border-box;
@@ -43,36 +52,42 @@ section {
   padding:1em;
 }
 
-p {
+section p {
   margin: 0.5em 0;
 }
 
-hr {
+section hr {
   margin: 2em 0;
-  border: 4px solid #000;
+  border-top: .25em solid #f90;
+  border-bottom: .25em solid #000;
 }
 
-h1, h2, h3, h4, h5, h6 {
+section h1, section h2, section h3, section h4, section h5, section h6 {
   margin: 1.6em 0;
   font-size: 1.25em;
   line-height: 1;
   font-weight: bold;
-  color: #900;
+  color: #f90;
+  text-shadow: .0625em .0625em 0 #000;
 }
 
-h1 {
+section h1 {
     font-size: 2em;
     text-align: center;
     margin: 0.5em 0;
 }
 
-h2 {
+section h2 {
     font-size: 1.5em;
     margin: 1.33em 0;
 }
 
-ul {
+section ul {
     list-style: disc outside;
     margin: 0.5em 0.5em;
     padding: 0px 0.25em;
+}
+
+footer {
+  font-size: 0.5em;
 }
