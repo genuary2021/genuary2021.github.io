@@ -2,6 +2,16 @@ name: GENUARY 2021
 title: GENUARY 2021
 description: GENUARY 2021 is an artificially generated month of time where we build code that makes beautiful things. It happens during the month of January in 2021.
 
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 exclude:
   - Gemfile
   - Gemfile.lock
