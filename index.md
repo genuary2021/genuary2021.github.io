@@ -28,6 +28,4 @@ Click for the [prompts in progress](prompts). These are not the actual real prom
 
 * If you're short on time, you can try and work two prompts in a program that you use twice. The power of automation.
 
-# 31 DAYS, 31 PROGRAMS/ALGORITHMS/MACHINES/AUTOMATONS
-
-
+# 31 DAYS, 31 PROGRAMS / ALGORITHMS / MACHINES / AUTOMATONS
