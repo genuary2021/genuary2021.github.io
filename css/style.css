@@ -19,30 +19,9 @@ header, section, footer {
   display:block;
 }
 
-header #logo {
-  position: relative;
-  width: 100vw;
-  margin: 0 auto;
-  padding: 0;
-}
 header #logo svg {
   width: 100%;
 }
-header #logo p {
-  position: absolute;
-  left: 0;
-  right: 0;
-  font-size: 10vw;
-  top: 0;
-  color: #fff;
-  text-shadow:
-     .05em  .05em 0 #034,
-    -.05em  .05em 0 #034,
-     .05em -.05em 0 #034,
-    -.05em -.05em 0 #034;
-  text-align: center;
-}
-header #logo a { text-decoration: none; color: inherit; }
 
 section strong { color: #9ff; font-weight: bold; }
 section em { color: #9ff; font-style: italic; }
