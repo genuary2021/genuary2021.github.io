@@ -17,7 +17,9 @@ y += trackY * INPUT_A;
 
 ---
 
-```// TRIPLE NESTED LOOP```
+```
+// TRIPLE NESTED LOOP
+```
 
 ---
 
@@ -67,4 +69,3 @@ Text as primitive shape
 Some thing where you increase the randomness along the Y-axis
 
 ---
-
