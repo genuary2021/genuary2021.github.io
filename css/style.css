@@ -83,8 +83,8 @@ section pre {
   color: #9ff;
   padding: 1em;
   text-shadow: 0 0 3px #222, 0 0 10px #9ff;
-  /*overflow-y: scroll;*/
-  white-space: pre-wrap;
+  overflow-x: auto;
+  /*white-space: pre-wrap;*/
 }
 
 section pre .cursor {
