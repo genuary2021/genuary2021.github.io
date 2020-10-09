@@ -4,7 +4,7 @@ Here follows an unordered list of interesting code prompts:
 
 ---
 
-This one is roughly based on the October challenge from [symbiocene.art](symbiocene.art).
+This one is roughly based on the October challenge from [symbiocene.art](https://symbiocene.art).
 
 ```
 // uppercase parts can be your own variables
