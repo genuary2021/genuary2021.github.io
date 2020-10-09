@@ -3,7 +3,7 @@
 20 WRITE CODE
 30 OBTAIN ARTIFACT
 40 POST #GENUARY #GENUARY2021
-50 GOTO 10<span class="cursor" />
+50 GOTO 10<span class="cursor"></span>
 </pre>
 
 # GENUARY?
