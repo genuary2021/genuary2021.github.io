@@ -1,11 +1,15 @@
 <!doctype html>
-<html>
+<html lang="en-US">
   <head>
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Genuary is a month of creative coding. 31 prompts for 31 days of making beautiful PROGRAMS/ALGORITHMS/MACHINES/AUTOMATONS.">
+    <meta property="og:description" content="Genuary is a month of creative coding. 31 prompts for 31 days of making beautiful PROGRAMS/ALGORITHMS/MACHINES/AUTOMATONS.">
+    <meta name="keywords" content="generative,generative art,genuary,genuary 2021,creative coding,code,programming">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}">
+    <meta name="theme-color" content="#003344">
     <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!-- <link rel="stylesheet" href="{{ '/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
   </head>
   <body>
     <div class="wrapper">
