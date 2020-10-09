@@ -86,7 +86,7 @@ section pre {
   text-shadow: 0 0 3px #222, 0 0 10px #9ff;
   /*max-width: 25em;*/
   /*margin: 0 auto;*/
-  overflow-x: scroll;
+  overflow-x: auto;
 }
 
 section pre .cursor {
