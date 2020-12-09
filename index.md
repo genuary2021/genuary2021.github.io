@@ -27,5 +27,7 @@ Click for the [prompts in progress](prompts). These are not the actual real prom
 # TIPS & TRICKS
 
 * If you're short on time, you can try and work two prompts in a program that you use twice. The power of automation.
+* Don't get burned out doing dailies. This is supposed to be fun and a creative impulse. Don't give up too quickly, but if you start resenting it, or find it's stunting you creatively, then stop for a moment and think about why you're doing this again. Fun? Practicing skills? Learning? Boredom? Ideas? It's fine to skip days. Though if you've been on a streak and only got like three days left, maybe consider hanging in there; you've got this.
+* There's a prompt for each day, but you can do them in advance (or later!) if it's convenient. No one is here to throw off your schedule.
 
 # 31 DAYS, 31 PROGRAMS / ALGORITHMS / MACHINES / AUTOMATONS

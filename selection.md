@@ -1,5 +1,7 @@
 # PROMPT SELECTION ALGORITHM
 
+(note this is just a random idea)
+
 We are going to attempt simulated annealing inspired sorting with a group :)
 
 I put all the prompts in this Google Doc.

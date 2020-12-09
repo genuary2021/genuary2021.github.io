@@ -1,34 +1,54 @@
-# PROMPTS IN PROGRESS
+## JAN.1
 
-Here follows an unordered list of interesting code prompts.
-
-Prompts do not have to be followed exactly. In particular, code snippets should be considered language-agnostic pseudocode algorithmic suggestions.
+Use an API (e.g. the weather).
 
 ---
+## JAN.2
 
-This one is roughly based on the October challenge from [symbiocene.art](https://symbiocene.art).
-
-```
-// uppercase INPUT can be your own variables or expression
-// INPUT_A is generally between 0.0 and 1.0
-x += (INPUT_X - x) * INPUT_A;
-y += (INPUT_Y - y) * INPUT_A;
-```
+Use something other than a computer as an autonomous process. (Or a non-computer random source)
 
 ---
+## JAN.3
 
-```
-// TRIPLE NESTED LOOP
-```
-
----
-
-```
-for successive values of T:
-    Y = X XOR T
-```
+One process grows, another process prunes.
 
 ---
+## JAN.4
+
+Triangle subdivision.
+
+---
+## JAN.5
+
+Use sound.
+
+---
+## JAN.6
+
+Let someone else decide the general rules of your piece.
+
+---
+## JAN.7
+
+Use two colors only
+
+---
+## JAN.8
+
+500 lines
+
+---
+## JAN.9
+
+https://www.wolframalpha.com/input/?i=rule+30
+
+---
+## JAN.10
+
+Interference patterns.
+
+---
+## JAN.11
 
 ```
 10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
@@ -37,50 +57,68 @@ for successive values of T:
 ```
 
 ---
+## JAN.12
 
-https://www.wolframalpha.com/input/?i=rule+30
-
----
-
-No loops
+Small areas of symmetry.
 
 ---
+## JAN.13
 
-Circles only
-
----
-
-500 lines
+Curve only.
 
 ---
-
-Any shape, none can touch
-
----
-
-Gradients without lines
-
----
-
-Text as primitive shape
-
----
+## JAN.14
 
 ```
 // TREE
 ```
 
 ---
+## JAN.15
+
+```
+// TRIPLE NESTED LOOP
+```
+
+---
+## JAN.16
+
+Draw a line. Wrong answers only.
+
+---
+## JAN.17
+
+2D Perspective.
+
+---
+## JAN.18
+
+Any shape, none can touch
+
+---
+## JAN.19
+
+Make a grid of all the permutations of something
+
+---
+## JAN.20
+
+Do not repeat.
+
+---
+## JAN.21
 
 ```
 // SUBDIVISION
 ```
 
 ---
+## JAN.22
 
-Increase the randomness along the Y-axis
+Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
 
 ---
+## JAN.23
 
 <b style="background-color: #264653">#264653</b>
 <b style="background-color: #2a9d8f">#2a9d8f</b>
@@ -91,49 +129,41 @@ Increase the randomness along the Y-axis
 Optionally, you can use a black or white background.
 
 ---
+## JAN.24
 
-```
-function f(x) { 
-    DRAW(x); 
-    f(1 * x / 4); 
-    f(2 * x / 4); 
-    f(3 * x / 4); 
-}
-```
+Increase the randomness along the Y-axis
 
 ---
+## JAN.25
 
-Make a grid of all the permutations of something
-
----
-
-Monochrome gradient without lines
+Circles only
 
 ---
+## JAN.26
 
-```
-.5 + .5 * 5 ** .5
-```
-
----
-
-Draw a line, pick a new color, move a bit
+No loops
 
 ---
-
-Do not repeat.
-
----
-
-Small areas of symmetry.
-
----
-
-Place shapes. Alter the ones that overlap. Repeat.
-
----
+## JAN.27
 
 Generate some rules, then follow them by hand on paper.
 
 ---
+## JAN.28
 
+Monochrome gradient without lines
+
+---
+## JAN.29
+
+Draw a line, pick a new color, move a bit
+
+---
+## JAN.30
+
+Replicate a natural concept (e.g. gravity, flocking, path following).
+
+---
+## JAN.31
+
+Gradients without lines
