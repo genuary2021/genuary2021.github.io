@@ -1,36 +1,38 @@
 ## JAN.1
 
-Use an API (e.g. the weather).
+Any shape, none can touch
 
 ---
 ## JAN.2
 
-Use something other than a computer as an autonomous process. (Or a non-computer random source)
+```
+// SUBDIVISION
+```
 
 ---
 ## JAN.3
 
-One process grows, another process prunes.
+Curve only.
 
 ---
 ## JAN.4
 
-Triangle subdivision.
+Generate some rules, then follow them by hand on paper.
 
 ---
 ## JAN.5
 
-Use sound.
+Circles only
 
 ---
 ## JAN.6
 
-Let someone else decide the general rules of your piece.
+Use something other than a computer as an autonomous process. (Or a non-computer random source)
 
 ---
 ## JAN.7
 
-Use two colors only
+Monochrome gradient without lines
 
 ---
 ## JAN.8
@@ -40,85 +42,50 @@ Use two colors only
 ---
 ## JAN.9
 
-https://www.wolframalpha.com/input/?i=rule+30
+Interference patterns.
 
 ---
 ## JAN.10
 
-Interference patterns.
+https://www.wolframalpha.com/input/?i=rule+30
 
 ---
 ## JAN.11
 
-```
-10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
-20 OBTAIN ONE
-30 THAT IS YOUR PROMPT FOR TODAY
-```
+Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
 
 ---
 ## JAN.12
 
-Small areas of symmetry.
+Do not repeat.
 
 ---
 ## JAN.13
 
-Curve only.
+Gradients without lines
 
 ---
 ## JAN.14
 
-```
-// TREE
-```
+Let someone else decide the general rules of your piece.
 
 ---
 ## JAN.15
 
-```
-// TRIPLE NESTED LOOP
-```
+Make something human.
 
 ---
 ## JAN.16
 
-Draw a line. Wrong answers only.
+2D Perspective.
 
 ---
 ## JAN.17
 
-2D Perspective.
+Small areas of symmetry.
 
 ---
 ## JAN.18
-
-Any shape, none can touch
-
----
-## JAN.19
-
-Make a grid of all the permutations of something
-
----
-## JAN.20
-
-Do not repeat.
-
----
-## JAN.21
-
-```
-// SUBDIVISION
-```
-
----
-## JAN.22
-
-Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
-
----
-## JAN.23
 
 <b style="background-color: #264653">#264653</b>
 <b style="background-color: #2a9d8f">#2a9d8f</b>
@@ -129,14 +96,43 @@ Do some code golf! How little code can you write to make something interesting? 
 Optionally, you can use a black or white background.
 
 ---
-## JAN.24
+## JAN.19
+
+Draw a line, pick a new color, move a bit
+
+---
+## JAN.20
 
 Increase the randomness along the Y-axis
 
 ---
+## JAN.21
+
+Use sound.
+
+---
+## JAN.22
+
+Replicate a natural concept (e.g. gravity, flocking, path following).
+
+---
+## JAN.23
+
+```
+10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
+20 OBTAIN ONE
+30 THAT IS YOUR PROMPT FOR TODAY
+```
+
+---
+## JAN.24
+
+Draw a line. Wrong answers only.
+
+---
 ## JAN.25
 
-Circles only
+Make a grid of all the permutations of something
 
 ---
 ## JAN.26
@@ -146,24 +142,26 @@ No loops
 ---
 ## JAN.27
 
-Generate some rules, then follow them by hand on paper.
+```
+// TRIPLE NESTED LOOP
+```
 
 ---
 ## JAN.28
 
-Monochrome gradient without lines
+Use an API (e.g. the weather).
 
 ---
 ## JAN.29
 
-Draw a line, pick a new color, move a bit
+One process grows, another process prunes.
 
 ---
 ## JAN.30
 
-Replicate a natural concept (e.g. gravity, flocking, path following).
+Triangle subdivision.
 
 ---
 ## JAN.31
 
-Gradients without lines
+Transform (e.g. shapes, text, information).

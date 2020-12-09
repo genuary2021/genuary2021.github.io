@@ -1,29 +1,19 @@
-1. (9♥)
+## 1. (9♥)
 
 No loops
 
 ---
-2. (9♥)
+## 2. (9♥)
 
 Increase the randomness along the Y-axis
 
 ---
-3. (8♥)
-
-Replicate a natural concept (e.g. gravity, flocking, path following).
-
----
-4. (8♥)
-
-Generate some rules, then follow them by hand on paper.
-
----
-5. (8♥)
+## 3. (8♥)
 
 Draw a line. Wrong answers only.
 
 ---
-6. (8♥)
+## 4. (8♥)
 
 <b style="background-color: #264653">#264653</b>
 <b style="background-color: #2a9d8f">#2a9d8f</b>
@@ -34,76 +24,79 @@ Draw a line. Wrong answers only.
 Optionally, you can use a black or white background.
 
 ---
-7. (8♥)
-
-Draw a line, pick a new color, move a bit
-
----
-8. (8♥)
+## 5. (8♥)
 
 Circles only
 
 ---
-9. (7♥)
+## 6. (8♥)
 
-Use something other than a computer as an autonomous process. (Or a non-computer random source)
-
----
-10. (7♥)
-
-Interference patterns.
+Draw a line, pick a new color, move a bit
 
 ---
-11. (7♥)
+## 7. (8♥)
 
-Use sound.
+Replicate a natural concept (e.g. gravity, flocking, path following).
 
 ---
-12. (7♥)
+## 8. (8♥)
+
+Generate some rules, then follow them by hand on paper.
+
+---
+## 9. (7♥)
+
+500 lines
+
+---
+## 10. (7♥)
 
 Do not repeat.
 
 ---
-13. (7♥)
+## 11. (7♥)
 
-Let someone else decide the general rules of your piece.
+Use something other than a computer as an autonomous process. (Or a non-computer random source)
 
 ---
-14. (7♥)
+## 12. (7♥)
 
 Curve only.
 
 ---
-15. (7♥)
+## 13. (7♥)
 
 ```
 // TRIPLE NESTED LOOP
 ```
 
 ---
-16. (7♥)
+## 14. (7♥)
 
-500 lines
+Use sound.
 
 ---
-17. (7♥)
+## 15. (7♥)
+
+Let someone else decide the general rules of your piece.
+
+---
+## 16. (7♥)
+
+Interference patterns.
+
+---
+## 17. (7♥)
 
 Any shape, none can touch
 
 ---
-18. (6♥)
+## 18. (6♥)
 
-Triangle subdivision.
-
----
-19. (6♥)
-
-```
-// SUBDIVISION
-```
+Gradients without lines
 
 ---
-20. (6♥)
+## 19. (6♥)
 
 ```
 10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
@@ -112,69 +105,69 @@ Triangle subdivision.
 ```
 
 ---
-21. (6♥)
+## 20. (6♥)
 
-Gradients without lines
-
----
-22. (5♥)
-
-Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
+Triangle subdivision.
 
 ---
-23. (5♥)
+## 21. (6♥)
+
+```
+// SUBDIVISION
+```
+
+---
+## 22. (5♥)
 
 2D Perspective.
 
 ---
-24. (5♥)
+## 23. (5♥)
+
+Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
+
+---
+## 24. (5♥)
 
 Use an API (e.g. the weather).
 
 ---
-25. (5♥)
+## 25. (5♥)
 
 Small areas of symmetry.
 
 ---
-26. (5♥)
-
-Make a grid of all the permutations of something
-
----
-27. (5♥)
+## 26. (5♥)
 
 One process grows, another process prunes.
 
 ---
-28. (4♥)
+## 27. (5♥)
+
+Make a grid of all the permutations of something
+
+---
+## 28. (4♥)
 
 https://www.wolframalpha.com/input/?i=rule+30
 
 ---
-29. (4♥)
-
-Monochrome gradient without lines
-
----
-30. (4♥)
-
-Use two colors only
-
----
-31. (4♥)
-
-```
-// TREE
-```
-
----
-32. (4♥)
+## 29. (4♥)
 
 Make something human.
 
 ---
-33. (4♥)
+## 30. (4♥)
+
+Transform (e.g. shapes, text, information).
+
+---
+## 31. (4♥)
+
+Monochrome gradient without lines
+
+---
+## 32. (4♥)
 
 ```
 function f(x) { 
@@ -186,37 +179,49 @@ function f(x) {
 ```
 
 ---
-34. (4♥)
+## 33. (4♥)
 
-Transform (e.g. shapes, text, information).
-
----
-35. (3♥)
-
-<span title="If you say &quot;I know technically not an insect but&quot;, you can also use spiders, shrimp, worms, insect-like mammals or birds.">Insects</span>; Algorithms, aesthetics, behaviour, simulation, simulacra.
+```
+// TREE
+```
 
 ---
-36. (3♥)
+## 34. (4♥)
+
+Use two colors only
+
+---
+## 35. (3♥)
 
 Reverse the polarity.
 
 ---
-37. (3♥)
-
-Make a sketch using texture (image, collage).
-
----
-38. (3♥)
+## 36. (3♥)
 
 Text as primitive shape
 
 ---
-39. (3♥)
+## 37. (3♥)
+
+Make a sketch using texture (image, collage).
+
+---
+## 38. (3♥)
 
 Use continuous-valued noise (e.g. Perlin noise, Simplex noise, etc).
 
 ---
-40. (2♥)
+## 39. (3♥)
+
+<span title="If you say &quot;I know technically not an insect but&quot;, you can also use spiders, shrimp, worms, insect-like mammals or birds.">Insects</span>; Algorithms, aesthetics, behaviour, simulation, simulacra.
+
+---
+## 40. (2♥)
+
+Use OOP
+
+---
+## 41. (2♥)
 
 This one is roughly based on the October challenge from [symbiocene.art](https://symbiocene.art).
 
@@ -228,39 +233,34 @@ y += (INPUT_Y - y) * INPUT_A;
 ```
 
 ---
-41. (2♥)
+## 42. (2♥)
+
+Make something that an alien would say "pfffft, my 3-year-old could do that".
+
+---
+## 43. (2♥)
+
+Place shapes. Alter the ones that overlap. Repeat.
+
+---
+## 44. (2♥)
 
 ```
 .5 + .5 * 5 ** .5
 ```
 
 ---
-42. (2♥)
-
-Make something that an alien would say "pfffft, my 3-year-old could do that".
-
----
-43. (2♥)
-
-[What are complex systems?](https://cssociety.org/about-us/what-are-cs#:~:text=Complex%20systems%20are%20systems%20where,from%20properties%20of%20the%20parts)
-
----
-44. (2♥)
-
-Place shapes. Alter the ones that overlap. Repeat.
-
----
-45. (2♥)
-
-Use OOP
-
----
-46. (2♥)
+## 45. (2♥)
 
 Do it with a Fourier.
 
 ---
-47. (1♥)
+## 46. (2♥)
+
+[What are complex systems?](https://cssociety.org/about-us/what-are-cs#:~:text=Complex%20systems%20are%20systems%20where,from%20properties%20of%20the%20parts)
+
+---
+## 47. (1♥)
 
 ```
 for successive values of T:
