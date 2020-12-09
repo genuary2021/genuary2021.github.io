@@ -1,11 +1,13 @@
 ## JAN.1
 
-One process grows, another process prunes.
+```
+// TRIPLE NESTED LOOP
+```
 
 ---
 ## JAN.2
 
-Let someone else decide the general rules of your piece.
+https://www.wolframalpha.com/input/?i=rule+30
 
 ---
 ## JAN.3
@@ -20,7 +22,7 @@ Small areas of symmetry.
 ---
 ## JAN.5
 
-Increase the randomness along the Y-axis
+Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
 
 ---
 ## JAN.6
@@ -30,35 +32,96 @@ Triangle subdivision.
 ---
 ## JAN.7
 
-Replicate a natural concept (e.g. gravity, flocking, path following).
+Generate some rules, then follow them by hand on paper.
 
 ---
 ## JAN.8
 
-Transform (e.g. shapes, text, information).
+Curve only.
 
 ---
 ## JAN.9
 
-No loops
+Interference patterns.
 
 ---
 ## JAN.10
 
-Use something other than a computer as an autonomous process. (Or a non-computer random source)
+```
+// TREE
+```
 
 ---
 ## JAN.11
 
-Do not repeat.
+Use something other than a computer as an autonomous process. (Or a non-computer random source)
 
 ---
 ## JAN.12
 
-Draw a line. Wrong answers only.
+Use an API (e.g. the weather).
 
 ---
 ## JAN.13
+
+Do not repeat.
+
+---
+## JAN.14
+
+```
+// SUBDIVISION
+```
+
+---
+## JAN.15
+
+Let someone else decide the general rules of your piece.
+
+---
+## JAN.16
+
+Circles only
+
+---
+## JAN.17
+
+Draw a line, pick a new color, move a bit
+
+---
+## JAN.18
+
+One process grows, another process prunes.
+
+---
+## JAN.19
+
+Increase the randomness along the Y-axis
+
+---
+## JAN.20
+
+No loops
+
+---
+## JAN.21
+
+```
+function f(x) { 
+    DRAW(x); 
+    f(1 * x / 4); 
+    f(2 * x / 4); 
+    f(3 * x / 4); 
+}
+```
+
+---
+## JAN.22
+
+Draw a line. Wrong answers only.
+
+---
+## JAN.23
 
 <b style="background-color: #264653">#264653</b>
 <b style="background-color: #2a9d8f">#2a9d8f</b>
@@ -69,101 +132,45 @@ Draw a line. Wrong answers only.
 Optionally, you can use a black or white background.
 
 ---
-## JAN.14
+## JAN.24
 
-```
-// TRIPLE NESTED LOOP
-```
+500 lines
 
 ---
-## JAN.15
+## JAN.25
 
-```
-// SUBDIVISION
-```
+Make a grid of all the permutations of something
 
 ---
-## JAN.16
+## JAN.26
 
-Use an API (e.g. the weather).
-
----
-## JAN.17
-
-Generate some rules, then follow them by hand on paper.
+2D Perspective.
 
 ---
-## JAN.18
+## JAN.27
 
-Any shape, none can touch
-
----
-## JAN.19
-
-Curve only.
+Gradients without lines
 
 ---
-## JAN.20
-
-```
-// TREE
-```
-
----
-## JAN.21
+## JAN.28
 
 Use sound.
 
 ---
-## JAN.22
+## JAN.29
+
+Any shape, none can touch
+
+---
+## JAN.30
+
+Replicate a natural concept (e.g. gravity, flocking, path following).
+
+---
+## JAN.31
 
 ```
 10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
 20 OBTAIN ONE
 30 THAT IS YOUR PROMPT FOR TODAY
 ```
-
----
-## JAN.23
-
-Make a grid of all the permutations of something
-
----
-## JAN.24
-
-Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
-
----
-## JAN.25
-
-Interference patterns.
-
----
-## JAN.26
-
-Draw a line, pick a new color, move a bit
-
----
-## JAN.27
-
-2D Perspective.
-
----
-## JAN.28
-
-500 lines
-
----
-## JAN.29
-
-Use two colors only
-
----
-## JAN.30
-
-Circles only
-
----
-## JAN.31
-
-Gradients without lines
