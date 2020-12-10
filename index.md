@@ -16,7 +16,7 @@ For every 24 hour day within this 744 hour timespan, we have prepared a prompt w
 
 You don't have to follow the prompt exactly. Or even at all. But, y'know, we put effort into this.
 
-You can use any language, framework or medium. Please respect the Geneva Convention.
+You can use any language, framework or medium. Please respect the Geneva Conventions.
 
 Share your work and tag it with #genuary and #genuary2021. If you're going to misspell it as #genaury, please go all in and include all permutations.
 
@@ -26,7 +26,7 @@ Click for the [prompts in progress](prompts). These are not the actual prompts, 
 
 # TIPS & TRICKS
 
-* Short on time? Need to skip a day? Try and work two prompts (or three, or four) into a single program. Efficiency, baby!
+* Short on time? Need to skip a day? Try and work two prompts (or three, or four) into a single program. Efficiency!
 * Don't get burned out doing dailies. This is supposed to be fun and creative. If you start to resent dailies, or you find that it's stunting you creatively, then ramp down your goals (and time spent) to just what you want to get out of this. Fun? Practicing skills? Learning? Breaking boredom? Getting ideas? It's fine to skip days. If you've been on a streak and only have a few days left, you've got this.
 * There's a prompt for each day, but you can do them in advance (or later!) if it's convenient. No one is here to throw off your schedule.
 
