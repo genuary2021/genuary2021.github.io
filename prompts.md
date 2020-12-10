@@ -181,5 +181,5 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
     const now = new Date();
     const frag = "#jan" + now.getDate();
     document.location = frag;
-    document.querySelector(frag).class = "today";
+    document.querySelector(frag).className = "today";
 </script>
