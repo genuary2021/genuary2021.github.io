@@ -183,9 +183,9 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
         const now = new Date();
         console.log(now.getFullYear(), now.getMonth());
         // if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
-        const frag = "#jan" + now.getDate();
-        document.location = frag;
-        document.querySelector(frag).classList.add("today");
+        const hash = "#jan" + now.getDate();
+        if (!document.location.hash) document.location = hash;
+        document.querySelector(hash).classList.add("today");
     }
 
     // Make sure we aren't trying to do this before
