@@ -178,8 +178,17 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 ---
 
 <script>
-    const now = new Date();
-    const frag = "#jan" + now.getDate();
-    document.location = frag;
-    document.querySelector(frag).className = "today";
+    // Uncomment the `if` line to highlight days only in january 2021
+    function setHighlight () {
+        const now = new Date();
+        console.log(now.getFullYear(), now.getMonth());
+        // if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
+        const frag = "#jan" + now.getDate();
+        document.location = frag;
+        document.querySelector(frag).classList.add("today");
+    }
+
+    // Make sure we aren't trying to do this before
+    // the browser has loaded the whole page
+    addEventListener('load', setHighlight);
 </script>

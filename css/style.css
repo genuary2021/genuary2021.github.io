@@ -66,6 +66,21 @@ section h1, section h2, section h3, section h4, section h5, section h6 {
 .today {
   font-size: 2em;
   color: #fff;
+  text-shadow: 0 0 0.1em #f90, .0625em .0625em 0 #000;
+}
+
+.today::after {
+  background-color: #f90;
+  color: #000;
+  content: "that's today!";
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0.4375em;
+  font-weight: normal;
+  margin-left: 2em;
+  padding: .5em .75em;
+  box-shadow: 0.25em 0.5em 0 #000;
+  text-shadow: none;
 }
 
 section h1 {
@@ -76,7 +91,8 @@ section h1 {
 
 section h2 {
     font-size: 1.5em;
-    margin: 1.33em 0 0.66em;
+    margin: -1em 0 0;
+    padding: 1em 0 0.25em;
 }
 
 section ul {
