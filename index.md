@@ -22,7 +22,7 @@ Share your work and tag it with #genuary and #genuary2021. If you're going to mi
 
 # [PROMPTS](prompts)
 
-Click for the [prompts](prompts) for each day. These are the actual prompts, but you're only supposed to do them on that particular day (Earth time zones). Though if you decided to cheat and implement all these prompts before the start of January 2021, that would actually be pretty impressive. Share them too!
+Click for the [prompts](prompts) for each day. These are the actual prompts, but you're only supposed to do them on that particular day. Though if you decided to cheat and implement all these prompts before the start of January 2021, that would actually be pretty impressive. Share them too!
 
 # TIPS & TRICKS
 
