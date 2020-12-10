@@ -8,7 +8,7 @@
 
 # GENUARY?
 
-GENUARY is an artificially generated month of time where we build code to make beautiful things.
+GENUARY is an artificially generated month of time where we build code that makes beautiful things.
 
 It happens during the month of January 2021.
 
