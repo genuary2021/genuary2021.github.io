@@ -26,7 +26,7 @@ Click for the [prompts](prompts) for each day. These are the actual prompts, but
 
 # TIPS & TRICKS
 
-* Short on time? Need to skip a day? Try and work two prompts (or three, or four) into a single program. Efficiency!
+* Short on time? Need to skip a day? Try and work two prompts (or three, or four) into a single program. How's this for efficiency?
 * Don't get burned out doing dailies. This is supposed to be fun and creative. If you start to resent dailies, or you find that it's stunting you creatively, then ramp down your goals (and time spent) to just what you want to get out of this. Fun? Practicing skills? Learning? Breaking boredom? Getting ideas? It's fine to skip days. If you've been on a streak and only have a few days left, you've got this.
 * There's a prompt for each day, but you can do them in advance (or later!) if it's convenient. No one is here to throw off your schedule.
 
