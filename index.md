@@ -20,9 +20,9 @@ You can use any language, framework or medium. Please respect the Geneva Convent
 
 Share your work and tag it with #genuary and #genuary2021. If you're going to misspell it as #genaury, please go all in and include all permutations.
 
-# [PROMPTS IN PROGRESS](prompts)
+# [PROMPTS](prompts)
 
-Click for the [prompts in progress](prompts). These are not the actual prompts, because we still have to make a selection, which we will publish in due time. Though if you decided to cheat and implement all these WIP prompts before the start of January 2021, that would actually be pretty impressive. Share them too!
+Click for the [prompts](prompts) for each day. These are the actual prompts, but you're only supposed to do them on that particular day (Earth time zones). Though if you decided to cheat and implement all these prompts before the start of January 2021, that would actually be pretty impressive. Share them too!
 
 # TIPS & TRICKS
 
