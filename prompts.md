@@ -7,7 +7,7 @@
 ---
 ## JAN.2
 
-https://www.wolframalpha.com/input/?i=rule+30
+[https://www.wolframalpha.com/input/?i=rule+30](https://www.wolframalpha.com/input/?i=rule+30)
 
 ---
 ## JAN.3
@@ -54,12 +54,12 @@ Interference patterns.
 ---
 ## JAN.11
 
-Use something other than a computer as an autonomous process. (Or a non-computer random source)
+Use something other than a computer as an autonomous process (or use a non-computer random source).
 
 ---
 ## JAN.12
 
-Use an API (e.g. the weather).
+Use an API (e.g. the weather). Here's [a huge list of free public APIs](https://github.com/public-apis/public-apis).
 
 ---
 ## JAN.13
@@ -86,7 +86,7 @@ Circles only
 ---
 ## JAN.17
 
-Draw a line, pick a new color, move a bit
+Draw a line, pick a new color, move a bit.
 
 ---
 ## JAN.18
@@ -96,12 +96,12 @@ One process grows, another process prunes.
 ---
 ## JAN.19
 
-Increase the randomness along the Y-axis
+Increase the randomness along the Y-axis.
 
 ---
 ## JAN.20
 
-No loops
+No loops.
 
 ---
 ## JAN.21
@@ -134,12 +134,12 @@ Optionally, you can use a black or white background.
 ---
 ## JAN.24
 
-500 lines
+500 lines.
 
 ---
 ## JAN.25
 
-Make a grid of all the permutations of something
+Make a grid of all the permutations of something.
 
 ---
 ## JAN.26
@@ -149,7 +149,7 @@ Make a grid of all the permutations of something
 ---
 ## JAN.27
 
-Gradients without lines
+Gradients without lines.
 
 ---
 ## JAN.28
@@ -159,7 +159,7 @@ Use sound.
 ---
 ## JAN.29
 
-Any shape, none can touch
+Any shape, none can touch.
 
 ---
 ## JAN.30
