@@ -174,3 +174,12 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 20 OBTAIN ONE
 30 THAT IS YOUR PROMPT FOR TODAY
 ```
+
+---
+
+<script>
+    const now = new Date();
+    const frag = "#jan" + now.getDate();
+    document.location = frag;
+    document.querySelector(frag).class = "today";
+</script>
