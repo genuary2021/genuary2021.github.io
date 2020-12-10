@@ -179,7 +179,12 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 
 <script>
     const now = new Date();
-    const frag = "#jan" + now.getDate();
-    document.location = frag;
-    document.querySelector(frag).className = "today";
+    const month = now.getMonth();
+    const year = now.getYear();
+    //if we are in January 2021, highlight the relevant prompt.
+    if(month === 0 && year === 121){
+        const frag = "#jan" + now.getDate();
+        document.location = frag;
+        document.querySelector(frag).className = "today";
+    }
 </script>
