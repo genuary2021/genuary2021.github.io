@@ -182,7 +182,7 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
     function setHighlight () {
         const now = new Date();
         console.log(now.getFullYear(), now.getMonth());
-        // if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
+        if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
         const hash = "#jan" + now.getDate();
         if (!document.location.hash) document.location = hash;
         document.querySelector(hash).classList.add("today");
