@@ -18,7 +18,7 @@ You don't have to follow the prompt exactly. Or even at all. But, y'know, we put
 
 You can use any language, framework or medium. Please respect the Geneva Conventions.
 
-Share your work and tag it with #genuary and #genuary2021. If you're going to misspell it as #genaury, please go all in and include all permutations.
+Share your work and tag it with **#genuary** and **#genuary2021**. If you're going to misspell it as #genaury, please go all in and include all permutations.
 
 # [PROMPTS](prompts)
 

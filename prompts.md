@@ -1,3 +1,5 @@
+# Prompts
+
 ## JAN.1
 
 ```
@@ -7,7 +9,7 @@
 ---
 ## JAN.2
 
-[https://www.wolframalpha.com/input/?i=rule+30](https://www.wolframalpha.com/input/?i=rule+30)
+[Rule 30](https://www.wolframalpha.com/input/?i=rule+30) (elementary cellular automaton)[https://en.wikipedia.org/wiki/Elementary_cellular_automaton]
 
 ---
 ## JAN.3
@@ -178,10 +180,9 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 ---
 
 <script>
-    // Uncomment the `if` line to highlight days only in january 2021
     function setHighlight () {
         const now = new Date();
-        console.log(now.getFullYear(), now.getMonth());
+        // The if statement makes sure we only highlight days in January 2021
         if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
         const hash = "#jan" + now.getDate();
         if (!document.location.hash) document.location = hash;

@@ -142,6 +142,8 @@ footer {
   text-align: center;
 }
 
+footer a { color: #bef; }
+
 @media (max-width: 640px) {
   .wrapper {
     font-size: 1.0em;
