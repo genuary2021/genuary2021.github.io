@@ -24,7 +24,7 @@ header #logo svg {
   width: 100%;
 }
 
-section strong { color: #9ff; font-weight: bold; }
+section strong { color: #f90; font-weight: bold; }
 section em { color: #9ff; font-style: italic; }
 section code { color: #9ff; font-family: monospace; }
 section a { color: #bef; }
