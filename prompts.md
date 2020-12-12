@@ -1,4 +1,4 @@
-# Prompts
+# PROMPTS
 
 ## JAN.1
 
