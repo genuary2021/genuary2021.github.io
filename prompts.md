@@ -180,10 +180,9 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 ---
 
 <script>
-    // Uncomment the `if` line to highlight days only in january 2021
     function setHighlight () {
         const now = new Date();
-        console.log(now.getFullYear(), now.getMonth());
+        // The if statement makes sure we only highlight days in January 2021
         if (now.getFullYear() !== 2021 || now.getMonth() !== 0) return;
         const hash = "#jan" + now.getDate();
         if (!document.location.hash) document.location = hash;
