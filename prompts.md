@@ -7,7 +7,7 @@
 ---
 ## JAN.2
 
-[https://www.wolframalpha.com/input/?i=rule+30](https://www.wolframalpha.com/input/?i=rule+30)
+[Rule 30](https://www.wolframalpha.com/input/?i=rule+30) (elementary cellular automaton)[https://en.wikipedia.org/wiki/Elementary_cellular_automaton]
 
 ---
 ## JAN.3
