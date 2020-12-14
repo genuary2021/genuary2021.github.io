@@ -141,7 +141,7 @@ Optionally, you can use a black or white background.
 ---
 ## JAN.25
 
-Make a grid of all the permutations of something.
+Make a grid of permutations of something.
 
 ---
 ## JAN.26
