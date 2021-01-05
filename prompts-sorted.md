@@ -1,14 +1,14 @@
-## 1. (9♥)
+## 1. (9♥) (Piter)
 
 Increase the randomness along the Y-axis
 
 ---
-## 2. (9♥)
+## 2. (9♥) (Aaron)
 
 No loops
 
 ---
-## 3. (8♥)
+## 3. (8♥) (Rvig)
 
 <b style="background-color: #264653">#264653</b>
 <b style="background-color: #2a9d8f">#2a9d8f</b>
@@ -19,79 +19,79 @@ No loops
 Optionally, you can use a black or white background.
 
 ---
-## 4. (8♥)
+## 4. (8♥) (Louis-André)
 
 Draw a line, pick a new color, move a bit
 
 ---
-## 5. (8♥)
+## 5. (8♥) (Jonathan)
 
 Replicate a natural concept (e.g. gravity, flocking, path following).
 
 ---
-## 6. (8♥)
+## 6. (8♥) (Louis-André)
 
 Generate some rules, then follow them by hand on paper.
 
 ---
-## 7. (8♥)
+## 7. (8♥) (Louis-André)
 
 Draw a line. Wrong answers only.
 
 ---
-## 8. (8♥)
+## 8. (8♥) (Aaron)
 
 Circles only
 
 ---
-## 9. (7♥)
+## 9. (7♥) (Louis-André)
 
 Let someone else decide the general rules of your piece.
 
 ---
-## 10. (7♥)
+## 10. (7♥) (Sam)
 
 Interference patterns.
 
 ---
-## 11. (7♥)
+## 11. (7♥) (Licia)
 
 Curve only.
 
 ---
-## 12. (7♥)
+## 12. (7♥) (Louis-André)
 
 Do not repeat.
 
 ---
-## 13. (7♥)
+## 13. (7♥) (Aaron)
 
 500 lines
 
 ---
-## 14. (7♥)
+## 14. (7♥) (Piter)
 
 ```
 // TRIPLE NESTED LOOP
 ```
 
 ---
-## 15. (7♥)
+## 15. (7♥) (Aaron)
 
 Any shape, none can touch
 
 ---
-## 16. (7♥)
+## 16. (7♥) (Piter)
 
 Use something other than a computer as an autonomous process. (Or a non-computer random source)
 
 ---
-## 17. (7♥)
+## 17. (7♥) (Louis-André)
 
 Use sound.
 
 ---
-## 18. (6♥)
+## 18. (6♥) (Piter)
 
 ```
 10 SEARCH FOR "ENO'S OBLIQUE STRATEGIES"
@@ -100,59 +100,59 @@ Use sound.
 ```
 
 ---
-## 19. (6♥)
+## 19. (6♥) (Aaron)
 
 Gradients without lines
 
 ---
-## 20. (6♥)
+## 20. (6♥) (Piter)
 
 ```
 // SUBDIVISION
 ```
 
 ---
-## 21. (6♥)
+## 21. (6♥) (Stevan)
 
 Triangle subdivision.
 
 ---
-## 22. (5♥)
+## 22. (5♥) (Louis-André)
 
 Do some code golf! How little code can you write to make something interesting? Share the sketch and its code together if you can.
 
 ---
-## 23. (5♥)
+## 23. (5♥) (Jonathan)
 
 Use an API (e.g. the weather).
 
 ---
-## 24. (5♥)
+## 24. (5♥) (Louis-André)
 
 Small areas of symmetry.
 
 ---
-## 25. (5♥)
+## 25. (5♥) (Piter)
 
 One process grows, another process prunes.
 
 ---
-## 26. (5♥)
+## 26. (5♥) (Piter)
 
 Make a grid of all the permutations of something
 
 ---
-## 27. (5♥)
+## 27. (5♥) (Stevan)
 
 2D Perspective.
 
 ---
-## 28. (4♥)
+## 28. (4♥) (Sam)
 
 Make something human.
 
 ---
-## 29. (4♥)
+## 29. (4♥) (Harold)
 
 ```
 function f(x) { 
@@ -164,59 +164,59 @@ function f(x) {
 ```
 
 ---
-## 30. (4♥)
+## 30. (4♥) (Harold)
 
 https://www.wolframalpha.com/input/?i=rule+30
 
 ---
-## 31. (4♥)
+## 31. (4♥) (Piter)
 
 ```
 // TREE
 ```
 
 ---
-## 32. (4♥)
+## 32. (4♥) (Aaron)
 
 Monochrome gradient without lines
 
 ---
-## 33. (4♥)
+## 33. (4♥) (Louis-André)
 
 Use two colors only
 
 ---
-## 34. (4♥)
+## 34. (4♥) (Licia)
 
 Transform (e.g. shapes, text, information).
 
 ---
-## 35. (3♥)
+## 35. (3♥) (Piter)
 
 <span title="If you say &quot;I know technically not an insect but&quot;, you can also use spiders, shrimp, worms, insect-like mammals or birds.">Insects</span>; Algorithms, aesthetics, behaviour, simulation, simulacra.
 
 ---
-## 36. (3♥)
+## 36. (3♥) (Jonathan)
 
 Make a sketch using texture (image, collage).
 
 ---
-## 37. (3♥)
+## 37. (3♥) (Piter)
 
 Reverse the polarity.
 
 ---
-## 38. (3♥)
+## 38. (3♥) (Jonathan)
 
 Use continuous-valued noise (e.g. Perlin noise, Simplex noise, etc).
 
 ---
-## 39. (3♥)
+## 39. (3♥) (Aaron)
 
 Text as primitive shape
 
 ---
-## 40. (2♥)
+## 40. (2♥) (symbiocene)
 
 This one is roughly based on the October challenge from [symbiocene.art](https://symbiocene.art).
 
@@ -228,39 +228,39 @@ y += (INPUT_Y - y) * INPUT_A;
 ```
 
 ---
-## 41. (2♥)
+## 41. (2♥) (Sam)
 
 Do it with a Fourier.
 
 ---
-## 42. (2♥)
+## 42. (2♥) (Piter)
 
 ```
 .5 + .5 * 5 ** .5
 ```
 
 ---
-## 43. (2♥)
+## 43. (2♥) (Piter)
 
 Make something that an alien would say "pfffft, my 3-year-old could do that".
 
 ---
-## 44. (2♥)
+## 44. (2♥) (Jonathan)
 
 Use OOP
 
 ---
-## 45. (2♥)
+## 45. (2♥) (Sam)
 
 [What are complex systems?](https://cssociety.org/about-us/what-are-cs#:~:text=Complex%20systems%20are%20systems%20where,from%20properties%20of%20the%20parts)
 
 ---
-## 46. (2♥)
+## 46. (2♥) (Louis-André)
 
 Place shapes. Alter the ones that overlap. Repeat.
 
 ---
-## 47. (1♥)
+## 47. (1♥) (Harold)
 
 ```
 for successive values of T:
