@@ -1,6 +1,6 @@
 # HOW DID GENUARY?
 
-I came up with the project in October, when we were talking about Inktober, and some of the people in generative artists club remarked that they had trouble relating the Inktober prompts to code art.
+This October, some people of the Generative Artists Club were talking about Inktober, and some of them remarked that they had trouble relating the Inktober prompts to code art.
 
 Around the same time I was contacted by someone from @symbiocene.gallery, who had a challenge called "6 simple lines of code", which was to make art that involved those 6 lines of code somehow. I participated of course :)
 
