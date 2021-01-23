@@ -55,10 +55,3 @@ If you rather sort of try to do a prompt maybe, then do that!
 ## can I use code that I wrote previously
 
 Yes.
-
-## what is qxapoiu
-
-A very old web glitch. It was like video feedback for ad networks.
-
-It used to be everywhere, however there are still fragments of it to be found, if you dig.
-
