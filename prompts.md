@@ -81,7 +81,7 @@ Do not repeat.
 Let someone else decide the general rules of your piece.
 
 ---
-## JAN.16 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaronpenne/))</span> {#jan16}
+## JAN.16 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaron_penne/))</span> {#jan16}
 
 Circles only
 
@@ -101,7 +101,7 @@ One process grows, another process prunes.
 Increase the randomness along the Y-axis.
 
 ---
-## JAN.20 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaronpenne/))</span> {#jan20}
+## JAN.20 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaron_penne/))</span> {#jan20}
 
 No loops.
 
@@ -134,7 +134,7 @@ Draw a line. Wrong answers only.
 Optionally, you can use a black or white background.
 
 ---
-## JAN.24 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaronpenne/))</span> {#jan24}
+## JAN.24 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaron_penne/))</span> {#jan24}
 
 500 lines.
 
@@ -149,7 +149,7 @@ Make a grid of permutations of something.
 2D Perspective.
 
 ---
-## JAN.27 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaronpenne/))</span> {#jan27}
+## JAN.27 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaron_penne/))</span> {#jan27}
 
 Monochrome gradients without lines.
 
@@ -159,7 +159,7 @@ Monochrome gradients without lines.
 Use sound.
 
 ---
-## JAN.29 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaronpenne/))</span> {#jan29}
+## JAN.29 <span class="credit">(credit: [Aaron Penne](https://www.instagram.com/aaron_penne/))</span> {#jan29}
 
 Any shape, none can touch.
 
@@ -182,7 +182,7 @@ Replicate a natural concept (e.g. gravity, flocking, path following).
 
 Thanks to all of these people for helping out, coming up with prompts, helping make the website, brainstorming, support and being amazing:
 
-[Aaron Penne](https://www.instagram.com/aaronpenne/), [Amy Goodchild](https://www.instagram.com/amy_goodchild/), [Harold](https://www.instagram.com/_hrrld/), [Jonathan Barbeau](https://www.instagram.com/jbarbeau.art/), [Licia He](https://www.instagram.com/blahblahpaperblah/), [Louis-André Labadie](https://www.instagram.com/lalabadie/), [Michael Lowe](https://www.instagram.com/mjrlowe/), [Piter Pasma](https://www.instagram.com/piterpasma/), [Richard Vigniel](https://www.instagram.com/rvig.art/), [Sam Corzine](https://www.instagram.com/company__a_guardian_angel/), [Stevan Dedovic](https://www.instagram.com/mr_praline/) and [Thomas Lin Pedersen](https://www.instagram.com/amy_goodchild/).
+[Aaron Penne](https://www.instagram.com/aaron_penne/), [Amy Goodchild](https://www.instagram.com/amy_goodchild/), [Harold](https://www.instagram.com/_hrrld/), [Jonathan Barbeau](https://www.instagram.com/jbarbeau.art/), [Licia He](https://www.instagram.com/blahblahpaperblah/), [Louis-André Labadie](https://www.instagram.com/lalabadie/), [Michael Lowe](https://www.instagram.com/mjrlowe/), [Piter Pasma](https://www.instagram.com/piterpasma/), [Richard Vigniel](https://www.instagram.com/rvig.art/), [Sam Corzine](https://www.instagram.com/company__a_guardian_angel/), [Stevan Dedovic](https://www.instagram.com/mr_praline/) and [Thomas Lin Pedersen](https://www.instagram.com/thomasp85_/).
 
 <script>
     function setHighlight () {
