@@ -6,6 +6,16 @@
 50 GOTO 10<span class="cursor"></span>
 </pre>
 
+# [ARE YOU FROM THE FUTURE?](https://genuary.art)
+
+This is the website for Genuary 2021.
+
+Most people on the planet are currently vibing in 2022.
+
+Now we don't want to tell you what to do, these prompts are perfectly fine, and you do you.
+
+But in case you're looking for Genuary 2022, check out https://genuary.art !!
+
 # GENUARY?
 
 GENUARY is an artificially generated month of time where we build code that makes beautiful things.
