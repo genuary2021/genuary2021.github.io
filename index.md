@@ -14,7 +14,7 @@ Most people on the planet are currently vibing in **2022**.
 
 Now we don't want to tell you what to do, these prompts are perfectly fine, and you do you.
 
-But in case you're looking for Genuary 2022, the website is now at [GENUARY.ART](https://genuary.art) *!!*
+But in case you're looking for [Genuary 2022](https://genuary.art), the website is now at [GENUARY.ART](https://genuary.art) *!!*
 
 # GENUARY?
 
